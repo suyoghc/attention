@@ -1,41 +1,37 @@
 Instructions for the test
 
-Please read these instructions carefully--you can scroll down using
-the arrow keys or space. Once you have read the instructions hit the
+Please read these instructions carefully -- you can scroll down using
+the arrow keys or space. Once you have read the instructions, hit the
 return (Enter) key to begin the experiment. Each trial begins when you
 hit the "Space" key. If you need to rest during the session, just rest
 before hitting the "Space" key.
 
-Each trial will start with a point shown at the center of screen,
-please focus your eyes on that point. Shortly after the point appears,
-you will be shown a display with 12 objects roughly in clock positions
-around a circle.  These objects will mostly be green circles of a
+Each trial starts with a cross symbol shown at the center of screen. 
+Please focus your eyes on this. Shortly after the cross appears,
+you will be shown a display with 12 objects positioned in a circle 
+like numbers in a clock. These objects will mostly be green circles of a
 certain size.
 
-For a given session you will be told to look for one object that
-differs from the others. For example, you might be told for that
-session to find the object that is square instead of circular. In
-another session you might be told to find the red circle instead of
-green. In another session you might be told to find the larger circle
-among smaller circles.
+For a given session, your task is to report the presence or absence of a particular
+unique object in this collection of 12 objects. This is done for every trial in the session.
+For example, in one session your task could be to report the presence or absence of a square-shaped object.
+In other sessions you might be told to report the presence of a red circle or a larger circle.
 
-Your task is to look inside the designated object and find the lines
-that go either horizontally or vertically. If the lines go vertically,
-press the "v" key. If the lines go horizontally press the "h" key. You
-are supposed to respond as fast and accurately as possible. If you
-make a mistake about the orientation you will hear a 'buzzer' warning
-you that you made an error. At the end of the session you will be told
-how well you did overall.
+The presence of the given object is indicated by hitting the key on your keyboard
+that has a diagram of the object pasted on it. If the object is absent, this
+is to be indicated by hitting the key which has a horizontal line pasted on it. You
+are supposed to respond as fast and accurately as possible. After every trial you
+will see a message that indicates whether you reported the correct answer or not. 
+At the end of the session you will be informed about your overall performance.
 
 It is important that you look for the object that is designated for
-that session, ignoring all other objects that might also appear on
-some trials. Thus if you are in a session looking for the square
-object, ignore another object that might be red, or larger, if any
-such object or objects appear. In other words, try not to be
-distracted. The designated target (square, large, or red) will change
-each of the three sessions.
+the session while ignoring the other objects that might also appear on
+some of the trials. Thus, if you are in a session looking for the square
+object, ignore other objects that might be red or larger, if they appear. 
+In other words, try not to be distracted. The designated target object that you
+need to look for (square, large, or red) will change in each of the three sessions.
 
-If you do not understand this, or have any questions whatever, please
+If you do not understand this or have any questions, please
 talk to the experimenter for guidance. The task should be easy to
 carry out.
 
@@ -44,4 +40,4 @@ complete a minimum number of trials in that time you will be asked to
 continue until that minimum is reached, but there should be ample time
 to finish in 55 minutes.
 
-On this session, you will be looking for the %s.
+In this session, you will be looking for the %s.
